@@ -1,0 +1,372 @@
+
+**** Build of configuration Debug for project I2C2Test ****
+
+"C:\\ti\\ccs920\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../bme280_envSensor/bme280.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="bme280_envSensor/bme280.d_raw" --obj_directory="bme280_envSensor"  "../bme280_envSensor/bme280.c"
+Finished building: "../bme280_envSensor/bme280.c"
+ 
+Building file: "../jpeg-9c/jaricom.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jaricom.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jaricom.c"
+Finished building: "../jpeg-9c/jaricom.c"
+ 
+Building file: "../jpeg-9c/jcapistd.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcapistd.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcapistd.c"
+Finished building: "../jpeg-9c/jcapistd.c"
+ 
+Building file: "../jpeg-9c/jcapimin.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcapimin.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcapimin.c"
+Finished building: "../jpeg-9c/jcapimin.c"
+ 
+Building file: "../jpeg-9c/jcmainct.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcmainct.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcmainct.c"
+Finished building: "../jpeg-9c/jcmainct.c"
+ 
+Building file: "../jpeg-9c/jcomapi.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcomapi.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcomapi.c"
+Finished building: "../jpeg-9c/jcomapi.c"
+ 
+Building file: "../jpeg-9c/jcinit.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcinit.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcinit.c"
+Finished building: "../jpeg-9c/jcinit.c"
+ 
+Building file: "../jpeg-9c/jcdctmgr.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcdctmgr.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcdctmgr.c"
+Finished building: "../jpeg-9c/jcdctmgr.c"
+ 
+Building file: "../jpeg-9c/jccoefct.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jccoefct.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jccoefct.c"
+Finished building: "../jpeg-9c/jccoefct.c"
+ 
+Building file: "../jpeg-9c/jccolor.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jccolor.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jccolor.c"
+Finished building: "../jpeg-9c/jccolor.c"
+ 
+Building file: "../jpeg-9c/jcprepct.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcprepct.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcprepct.c"
+Finished building: "../jpeg-9c/jcprepct.c"
+ 
+Building file: "../jpeg-9c/jcmarker.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcmarker.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcmarker.c"
+Finished building: "../jpeg-9c/jcmarker.c"
+ 
+Building file: "../jpeg-9c/jcarith.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcarith.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcarith.c"
+Finished building: "../jpeg-9c/jcarith.c"
+ 
+Building file: "../jpeg-9c/jctrans.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jctrans.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jctrans.c"
+Finished building: "../jpeg-9c/jctrans.c"
+ 
+Building file: "../jpeg-9c/jcparam.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcparam.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcparam.c"
+Finished building: "../jpeg-9c/jcparam.c"
+ 
+Building file: "../jpeg-9c/jcmaster.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcmaster.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcmaster.c"
+"../jpeg-9c/jcmaster.c", line 544: warning #190-D: enumerated type mixed with another type
+Finished building: "../jpeg-9c/jcmaster.c"
+ 
+Building file: "../jpeg-9c/jcsample.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jcsample.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jcsample.c"
+Finished building: "../jpeg-9c/jcsample.c"
+ 
+Building file: "../jpeg-9c/jdapimin.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdapimin.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdapimin.c"
+Finished building: "../jpeg-9c/jdapimin.c"
+ 
+Building file: "../jpeg-9c/jdapistd.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdapistd.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdapistd.c"
+Finished building: "../jpeg-9c/jdapistd.c"
+ 
+Building file: "../jpeg-9c/jchuff.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jchuff.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jchuff.c"
+Finished building: "../jpeg-9c/jchuff.c"
+ 
+Building file: "../jpeg-9c/jdatadst.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdatadst.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdatadst.c"
+Finished building: "../jpeg-9c/jdatadst.c"
+ 
+Building file: "../jpeg-9c/jdatasrc.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdatasrc.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdatasrc.c"
+Finished building: "../jpeg-9c/jdatasrc.c"
+ 
+Building file: "../jpeg-9c/jdarith.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdarith.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdarith.c"
+Finished building: "../jpeg-9c/jdarith.c"
+ 
+Building file: "../jpeg-9c/jddctmgr.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jddctmgr.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jddctmgr.c"
+Finished building: "../jpeg-9c/jddctmgr.c"
+ 
+Building file: "../jpeg-9c/jdcolor.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdcolor.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdcolor.c"
+Finished building: "../jpeg-9c/jdcolor.c"
+ 
+Building file: "../jpeg-9c/jdcoefct.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdcoefct.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdcoefct.c"
+Finished building: "../jpeg-9c/jdcoefct.c"
+ 
+Building file: "../jpeg-9c/jdtrans.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdtrans.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdtrans.c"
+Finished building: "../jpeg-9c/jdtrans.c"
+ 
+Building file: "../jpeg-9c/jdmainct.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdmainct.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdmainct.c"
+Finished building: "../jpeg-9c/jdmainct.c"
+ 
+Building file: "../jpeg-9c/jerror.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jerror.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jerror.c"
+Finished building: "../jpeg-9c/jerror.c"
+ 
+Building file: "../jpeg-9c/jdmaster.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdmaster.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdmaster.c"
+"../jpeg-9c/jdmaster.c", line 370: warning #190-D: enumerated type mixed with another type
+Finished building: "../jpeg-9c/jdmaster.c"
+ 
+Building file: "../jpeg-9c/jdpostct.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdpostct.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdpostct.c"
+Finished building: "../jpeg-9c/jdpostct.c"
+ 
+Building file: "../jpeg-9c/jdmerge.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdmerge.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdmerge.c"
+Finished building: "../jpeg-9c/jdmerge.c"
+ 
+Building file: "../jpeg-9c/jdsample.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdsample.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdsample.c"
+Finished building: "../jpeg-9c/jdsample.c"
+ 
+Building file: "../jpeg-9c/jdinput.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdinput.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdinput.c"
+Finished building: "../jpeg-9c/jdinput.c"
+ 
+Building file: "../jpeg-9c/jfdctflt.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jfdctflt.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jfdctflt.c"
+Finished building: "../jpeg-9c/jfdctflt.c"
+ 
+Building file: "../jpeg-9c/jfdctfst.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jfdctfst.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jfdctfst.c"
+Finished building: "../jpeg-9c/jfdctfst.c"
+ 
+Building file: "../jpeg-9c/jidctflt.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jidctflt.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jidctflt.c"
+Finished building: "../jpeg-9c/jidctflt.c"
+ 
+Building file: "../jpeg-9c/jidctfst.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jidctfst.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jidctfst.c"
+Finished building: "../jpeg-9c/jidctfst.c"
+ 
+Building file: "../jpeg-9c/jdhuff.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdhuff.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdhuff.c"
+Finished building: "../jpeg-9c/jdhuff.c"
+ 
+Building file: "../jpeg-9c/jmemnobs.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jmemnobs.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jmemnobs.c"
+Finished building: "../jpeg-9c/jmemnobs.c"
+ 
+Building file: "../jpeg-9c/jutils.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jutils.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jutils.c"
+Finished building: "../jpeg-9c/jutils.c"
+ 
+Building file: "../ov7670/libJPEGwithOV7670.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="ov7670/libJPEGwithOV7670.d_raw" --obj_directory="ov7670"  "../ov7670/libJPEGwithOV7670.c"
+Finished building: "../ov7670/libJPEGwithOV7670.c"
+ 
+Building file: "../ov7670/ov7670.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="ov7670/ov7670.d_raw" --obj_directory="ov7670"  "../ov7670/ov7670.c"
+"../ov7670/ov7670.c", line 127: warning #179-D: variable "numPixels" was declared but never referenced
+Finished building: "../ov7670/ov7670.c"
+ 
+Building file: "../source/HL_errata.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_errata.d_raw" --obj_directory="source"  "../source/HL_errata.c"
+Finished building: "../source/HL_errata.c"
+ 
+Building file: "../source/HL_epc.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_epc.d_raw" --obj_directory="source"  "../source/HL_epc.c"
+Finished building: "../source/HL_epc.c"
+ 
+Building file: "../source/HL_errata_SSWF021_45.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_errata_SSWF021_45.d_raw" --obj_directory="source"  "../source/HL_errata_SSWF021_45.c"
+Finished building: "../source/HL_errata_SSWF021_45.c"
+ 
+Building file: "../source/HL_gio.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_gio.d_raw" --obj_directory="source"  "../source/HL_gio.c"
+Finished building: "../source/HL_gio.c"
+ 
+Building file: "../source/HL_esm.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_esm.d_raw" --obj_directory="source"  "../source/HL_esm.c"
+Finished building: "../source/HL_esm.c"
+ 
+Building file: "../jpeg-9c/jquant1.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jquant1.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jquant1.c"
+Finished building: "../jpeg-9c/jquant1.c"
+ 
+Building file: "../source/HL_nmpu.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_nmpu.d_raw" --obj_directory="source"  "../source/HL_nmpu.c"
+Finished building: "../source/HL_nmpu.c"
+ 
+Building file: "../jpeg-9c/jdmarker.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jdmarker.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jdmarker.c"
+Finished building: "../jpeg-9c/jdmarker.c"
+ 
+Building file: "../jpeg-9c/jmemmgr.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jmemmgr.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jmemmgr.c"
+Finished building: "../jpeg-9c/jmemmgr.c"
+ 
+Building file: "../source/HL_i2c.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_i2c.d_raw" --obj_directory="source"  "../source/HL_i2c.c"
+Finished building: "../source/HL_i2c.c"
+ 
+Building file: "../source/HL_notification.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_notification.d_raw" --obj_directory="source"  "../source/HL_notification.c"
+Finished building: "../source/HL_notification.c"
+ 
+Building file: "../source/HL_pinmux.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_pinmux.d_raw" --obj_directory="source"  "../source/HL_pinmux.c"
+Finished building: "../source/HL_pinmux.c"
+ 
+Building file: "../jpeg-9c/jquant2.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jquant2.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jquant2.c"
+Finished building: "../jpeg-9c/jquant2.c"
+ 
+Building file: "../source/HL_sys_core.asm"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_core.d_raw" --obj_directory="source"  "../source/HL_sys_core.asm"
+Finished building: "../source/HL_sys_core.asm"
+ 
+Building file: "../source/HL_sys_intvecs.asm"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_intvecs.d_raw" --obj_directory="source"  "../source/HL_sys_intvecs.asm"
+Finished building: "../source/HL_sys_intvecs.asm"
+ 
+Building file: "../source/HL_sys_mpu.asm"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_mpu.d_raw" --obj_directory="source"  "../source/HL_sys_mpu.asm"
+Finished building: "../source/HL_sys_mpu.asm"
+ 
+Building file: "../source/HL_sys_main.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_main.d_raw" --obj_directory="source"  "../source/HL_sys_main.c"
+"../source/HL_sys_main.c", line 158: warning #112-D: statement is unreachable
+Finished building: "../source/HL_sys_main.c"
+ 
+Building file: "../source/HL_sys_dma.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_dma.d_raw" --obj_directory="source"  "../source/HL_sys_dma.c"
+Finished building: "../source/HL_sys_dma.c"
+ 
+Building file: "../source/HL_sys_pmu.asm"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_pmu.d_raw" --obj_directory="source"  "../source/HL_sys_pmu.asm"
+Finished building: "../source/HL_sys_pmu.asm"
+ 
+Building file: "../source/HL_sys_phantom.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_phantom.d_raw" --obj_directory="source"  "../source/HL_sys_phantom.c"
+Finished building: "../source/HL_sys_phantom.c"
+ 
+Building file: "../source/HL_sci.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sci.d_raw" --obj_directory="source"  "../source/HL_sci.c"
+Finished building: "../source/HL_sci.c"
+ 
+Building file: "../source/HL_sys_pmm.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_pmm.d_raw" --obj_directory="source"  "../source/HL_sys_pmm.c"
+Finished building: "../source/HL_sys_pmm.c"
+ 
+Building file: "../source/HL_sys_pcr.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_pcr.d_raw" --obj_directory="source"  "../source/HL_sys_pcr.c"
+Finished building: "../source/HL_sys_pcr.c"
+ 
+Building file: "../source/HL_sys_startup.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_startup.d_raw" --obj_directory="source"  "../source/HL_sys_startup.c"
+Finished building: "../source/HL_sys_startup.c"
+ 
+Building file: "../source/HL_sys_vim.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_vim.d_raw" --obj_directory="source"  "../source/HL_sys_vim.c"
+Finished building: "../source/HL_sys_vim.c"
+ 
+Building file: "../source/HL_system.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_system.d_raw" --obj_directory="source"  "../source/HL_system.c"
+Finished building: "../source/HL_system.c"
+ 
+Building file: "../jpeg-9c/jfdctint.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jfdctint.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jfdctint.c"
+Finished building: "../jpeg-9c/jfdctint.c"
+ 
+Building file: "../jpeg-9c/jidctint.c"
+Invoking: ARM Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me --include_path="C:/Users/ER/Documents/TI/I2C2Test/include" --include_path="C:/Users/ER/Documents/TI/I2C2Test/bme280_envSensor" --include_path="C:/Users/ER/Documents/TI/I2C2Test" --include_path="C:/Users/ER/Documents/TI/I2C2Test/ov7670" --include_path="C:/Users/ER/Documents/TI/I2C2Test/jpeg-9c" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="jpeg-9c/jidctint.d_raw" --obj_directory="jpeg-9c"  "../jpeg-9c/jidctint.c"
+Finished building: "../jpeg-9c/jidctint.c"
+ 
+Building target: "I2C2Test.out"
+Invoking: ARM Linker
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 -me -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi -z -m"I2C2Test.map" --heap_size=0x800 --stack_size=0x800 -i"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/lib" -i"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="I2C2Test_linkInfo.xml" --rom_model -o "I2C2Test.out" "./bme280_envSensor/bme280.obj" "./jpeg-9c/jaricom.obj" "./jpeg-9c/jcapimin.obj" "./jpeg-9c/jcapistd.obj" "./jpeg-9c/jcarith.obj" "./jpeg-9c/jccoefct.obj" "./jpeg-9c/jccolor.obj" "./jpeg-9c/jcdctmgr.obj" "./jpeg-9c/jchuff.obj" "./jpeg-9c/jcinit.obj" "./jpeg-9c/jcmainct.obj" "./jpeg-9c/jcmarker.obj" "./jpeg-9c/jcmaster.obj" "./jpeg-9c/jcomapi.obj" "./jpeg-9c/jcparam.obj" "./jpeg-9c/jcprepct.obj" "./jpeg-9c/jcsample.obj" "./jpeg-9c/jctrans.obj" "./jpeg-9c/jdapimin.obj" "./jpeg-9c/jdapistd.obj" "./jpeg-9c/jdarith.obj" "./jpeg-9c/jdatadst.obj" "./jpeg-9c/jdatasrc.obj" "./jpeg-9c/jdcoefct.obj" "./jpeg-9c/jdcolor.obj" "./jpeg-9c/jddctmgr.obj" "./jpeg-9c/jdhuff.obj" "./jpeg-9c/jdinput.obj" "./jpeg-9c/jdmainct.obj" "./jpeg-9c/jdmarker.obj" "./jpeg-9c/jdmaster.obj" "./jpeg-9c/jdmerge.obj" "./jpeg-9c/jdpostct.obj" "./jpeg-9c/jdsample.obj" "./jpeg-9c/jdtrans.obj" "./jpeg-9c/jerror.obj" "./jpeg-9c/jfdctflt.obj" "./jpeg-9c/jfdctfst.obj" "./jpeg-9c/jfdctint.obj" "./jpeg-9c/jidctflt.obj" "./jpeg-9c/jidctfst.obj" "./jpeg-9c/jidctint.obj" "./jpeg-9c/jmemmgr.obj" "./jpeg-9c/jmemnobs.obj" "./jpeg-9c/jquant1.obj" "./jpeg-9c/jquant2.obj" "./jpeg-9c/jutils.obj" "./ov7670/libJPEGwithOV7670.obj" "./ov7670/ov7670.obj" "./source/HL_epc.obj" "./source/HL_errata.obj" "./source/HL_errata_SSWF021_45.obj" "./source/HL_esm.obj" "./source/HL_gio.obj" "./source/HL_i2c.obj" "./source/HL_nmpu.obj" "./source/HL_notification.obj" "./source/HL_pinmux.obj" "./source/HL_sci.obj" "./source/HL_sys_core.obj" "./source/HL_sys_dma.obj" "./source/HL_sys_intvecs.obj" "./source/HL_sys_main.obj" "./source/HL_sys_mpu.obj" "./source/HL_sys_pcr.obj" "./source/HL_sys_phantom.obj" "./source/HL_sys_pmm.obj" "./source/HL_sys_pmu.obj" "./source/HL_sys_startup.obj" "./source/HL_sys_vim.obj" "./source/HL_system.obj" "../source/HL_sys_link.cmd"  -llibc.a 
+<Linking>
+Finished building target: "I2C2Test.out"
+ 
+
+**** Build Finished ****
